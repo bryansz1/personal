@@ -6,3 +6,5 @@ contributor is wrong
 
 test sync from github to gitbook editor
 
+test pull from gitbook editor to github
+
