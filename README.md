@@ -14,3 +14,5 @@ try again
 
 the thrid time to try user
 
+try after amend git config
+
