@@ -16,3 +16,5 @@ the thrid time to try user
 
 try after amend git config
 
+try after amend git config and restart gitbook editor
+
